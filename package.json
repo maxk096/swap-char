@@ -1,0 +1,36 @@
+{
+  "name": "swap-char",
+  "version": "1.0.0",
+  "description": "Swaps two chars in a string by indexes",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "ava",
+    "test:watch": "ava --watch",
+    "prepublishOnly": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null096/swap-char.git"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "swap",
+    "char",
+    "string",
+    "index",
+    "indexes"
+  ],
+  "author": "Max Kanaradze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null096/swap-char/issues"
+  },
+  "homepage": "https://github.com/null096/swap-char#readme",
+  "devDependencies": {
+    "ava": "^3.12.1"
+  }
+}
