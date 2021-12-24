@@ -1,6 +1,6 @@
 {
   "name": "swap-char",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Swaps two chars in a string by indexes",
   "main": "./index.js",
   "types": "./index.d.ts",
