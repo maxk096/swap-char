@@ -62,7 +62,7 @@ swapChar('abc', 2, Infinity); // <~ 'abc'
 
 **Max Kanaradze**
 
-[GitHub Profile](https://github.com/null096)
+[GitHub Profile](https://github.com/maxk096)
 
 #### MIT Licensed
 
